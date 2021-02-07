@@ -4,7 +4,7 @@ class Window:
     def __init__(self):
         window=Tk()
 
-        window.title('Pene')
+        window.title('hola como estas amigo')
         window.geometry("300x200+10+20")
         window.mainloop()
 
